@@ -1,0 +1,1 @@
+print("Employee management system")
