@@ -5,10 +5,10 @@ Av simple Python project to managge employee records.
 -Add Employee
 -View Employee
 -Search Employee
-
+-delete Employee
 ## Tecnology
 -python
 -CSV File Handling
 
 ## Author 
-Vikas
+Vikas Kumar
